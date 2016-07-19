@@ -1,3 +1,7 @@
 [submodule "subm"]
 	path = subm
 	url = https://github.com/refreshmentertainment/subm
+[submodule "submaster"]
+	path = submaster
+	url = https://github.com/refreshmentertainment/subm
+	branch = master
